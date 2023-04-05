@@ -26,4 +26,4 @@ The form is styled using CSS. The form elements are centered on the page, and th
 
 Author:
 
-This project was created by Aditya.
+This project was created by Adarsh.

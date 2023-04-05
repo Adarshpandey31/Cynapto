@@ -27,12 +27,14 @@ Form Fields:
 The form includes the following fields:
 
 Name,
-Address,
-Email,
-Phone Number,
-Gender.
+ Address,
+ Email,
+ Phone Number,
+ Gender.
 
 All fields are required, and the form will not submit unless all fields are filled in.
+It will point to the partiular box to fill in the data if you have left any entry empty.
+Also I have added command for the unique-email for the every entry in the form.
 
 Validation:
 

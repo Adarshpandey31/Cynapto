@@ -2,7 +2,7 @@ Cynapto_Assignment
 
 Question-1)
 
-Contains file :-
+Contains 3 file :-
 
 1.) assignment_cynap.php 
 2.) assignment.php
@@ -10,13 +10,13 @@ Contains file :-
 
 Question-2)
 
-Contains file :-
+Contain 1 file :-
 
 1.) que_2_assignment.html
 
 Question-3)
 
-Contains file :-
+Contain 1 file :-
 
 1.) que_4_assigment.html
 

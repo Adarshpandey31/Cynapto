@@ -94,7 +94,7 @@
         font-family: 'Baloo Bhai', cursive;
         color: rgb(15, 171, 237);
 
-        background: url(https://i.pinimg.com/564x/3f/d7/6e/3fd76e6df9f11478128d9235d32cc90d.jpg);
+        background: url(https://wallpaperaccess.com/full/6367135.jpg);
         background-repeat: no-repeat;
         background-size: cover;
 

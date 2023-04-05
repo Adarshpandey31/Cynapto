@@ -1,3 +1,24 @@
+Cynapto_Assignment
+
+Question-1)
+
+Contains file :-
+1.) assignment_cynap.php 
+2.) assignment.php
+3.) cynapto_assignment.sql
+
+Question-2)
+
+Contains file :-
+1.) que_2_assignment.html
+
+Question-3)
+
+Contains file :-
+1.) que_4_assigment.html
+
+Question -1 :- Explanation.
+
 This repository contains a simple HTML form to collect data from students. The form is designed to be used by Aditya's Classes. The form is created with HTML and includes jQuery to validate the form fields.
 
 Getting Started:
@@ -23,6 +44,7 @@ Validation is performed using jQuery. When the form is submitted, the jQuery cod
 Styling:
 
 The form is styled using CSS. The form elements are centered on the page, and the form itself is contained within a border. The page background is an image that covers the entire background.
+
 
 Author:
 

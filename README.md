@@ -8,11 +8,11 @@ Form Fields:
 
 The form includes the following fields:
 
-Name
-Address
-Email
-Phone Number
-Gender
+Name,
+Address,
+Email,
+Phone Number,
+Gender.
 
 All fields are required, and the form will not submit unless all fields are filled in.
 

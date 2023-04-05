@@ -1,22 +1,14 @@
 Cynapto_Assignment
 
-Question-1)
+Question-1) Contains 3 file :-
 
-Contains 3 file :-
+1.) assignment_cynap.php  2.) assignment.php  3.) cynapto_assignment.sql
 
-1.) assignment_cynap.php 
-2.) assignment.php
-3.) cynapto_assignment.sql
-
-Question-2)
-
-Contain 1 file :-
+Question-2) Contain 1 file :-
 
 1.) que_2_assignment.html
 
-Question-3)
-
-Contain 1 file :-
+Question-3) Contain 1 file :-
 
 1.) que_4_assigment.html
 

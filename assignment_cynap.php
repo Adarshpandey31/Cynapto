@@ -91,7 +91,7 @@
 <style>
     /* CSS Reset */
     body {
-        font-family: 'Baloo Bhai', cursive;
+        font-family: sans-serif;
         color: rgb(15, 171, 237);
 
         background: url(https://wallpaperaccess.com/full/6367135.jpg);
@@ -107,15 +107,17 @@
     .left {
         display: inline-block;
         /* border: 2px solid red; */
+        font-weight: bold;
+        font-size: large;
         position: absolute;
         left: 60px;
-        top: 20px;
+        top: 28px;
     }
 
-    .left img {
+    /* .left img {
         width: 136px;
         /* filter: invert(100%); */
-    }
+    /* } */ 
 
     .left div {
         line-height: 19px;
@@ -125,28 +127,38 @@
 
     .mid {
         display: block;
-        width: 36%;
-        margin: 29px auto;
+        width: 40%;
+        margin: auto;
+        top: 10px;
         /* border: 2px solid green; */
     }
 
     .right {
         position: absolute;
         right: 34px;
-        top: 43px;
+        top: 36px;
         /* background-color: ; */
         display: inline-block;
+        
         /* border: 2px solid yellow; */
     }
 
     .navbar {
-        display: inline-block;
-    }
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  top: 20px;
+}
 
-    .navbar li {
-        display: inline-block;
-        font-size: 25px;
-    }
+.navbar li {
+  display: flex;
+  font-size: 15px;
+  /* flex-grow: 1; */
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 0px;
+}
 
     .navbar li a {
         color: rgb(14, 225, 236);
@@ -198,7 +210,8 @@
 
     .form-group input,
     .form-group select {
-        font-family: 'Baloo Bhai', cursive;
+        font-family: serif;
+        font-weight: bold;
         width: 100%;
         padding: 10px;
         border-radius: 5px;
@@ -232,7 +245,7 @@
         <!-- Left box for logo -->
         <div class="left">
             <img src="img/gym.png" alt="">
-            <div>Aditya Classes</div>
+            <div>Learners Point</div>
         </div>
         <!-- Mid box for navbar -->
         <div class="mid">
@@ -241,7 +254,7 @@
                 <!-- class="active" -->
                 <li><a href="#">About Us</a></li>
                 <li><a href="#">Achievements</a></li>
-                <li><a href="#">Scorecard/Performance</a></li>
+                <li><a href="#">Scorecard</a></li>
                 <li><a href="#">Contact Us</a></li>
             </ul>
         </div>
@@ -253,7 +266,7 @@
         </div>
     </header>
     <div class="container">
-        <h1>Make your Future Bright - Join Aditya Classes </h1>
+        <h1>Make your Future Bright - Join Learners Point </h1>
         <form id="student_data_collection" method="POST" action="assignment.php">
             <div class="form-group">
                 <label for="name">Name:</label>

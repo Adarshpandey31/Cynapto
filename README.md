@@ -1,4 +1,5 @@
 This repository contains a simple HTML form to collect data from students. The form is designed to be used by Aditya's Classes. The form is created with HTML and includes jQuery to validate the form fields.
+It also contains a webcam image capturing page along with data table of 1 Lakh People.
 
 Getting Started:
 
